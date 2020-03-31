@@ -8,7 +8,7 @@ class TodoListFooter extends React.Component {
                     <div className="todoList-footer">
                         <button>All</button>
                         <button>Completed</button>
-                        <button>Active123123</button>
+                        <button>Active</button>
                     </div>
 
         );
